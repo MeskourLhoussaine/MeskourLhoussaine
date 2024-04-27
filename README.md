@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meskourlhoussaine&label=Profile%20views&color=0e75b6&style=flat" alt="meskourlhoussaine" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Mecro Services**
 
 - 💬 Ask me about **react, Angula ,JEE**
 
